@@ -1,0 +1,8 @@
+tenancy_ocid="<ocid1.tenancy>"
+compartment_ocid="<ocid1.compartment>"
+region="<us-phoenix-1>"
+fingerprint="<Finger.print>"
+user_ocid="<ocid1.user>"
+private_key_path="<~/.oci/oci_api_key.pem>"
+ssh_public_key="<~/.ssh/id_rsa.pub>"
+ATP_password = "<atppassword>"
